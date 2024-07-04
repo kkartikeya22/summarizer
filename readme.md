@@ -29,7 +29,8 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Summarize any kind of article with just one click using the powerful OpenAI model.
+Summarize any kind of article with just one click using the powerful OpenAI model. <br>
+You can visit the website here :- https://kkaisummarizer.netlify.app/
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
