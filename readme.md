@@ -27,12 +27,6 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to a AI-Artcile-Summarizer
-
-<a href="https://youtu.be/vpvtZZi5ZWk?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
 ## <a name="introduction">🤖 Introduction</a>
 
 Summarize any kind of article with just one click using the powerful OpenAI model.
